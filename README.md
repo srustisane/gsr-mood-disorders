@@ -8,3 +8,7 @@ Implementing signal processing techniques to enhance data quality.
 Integrating the device with a machine learning model to achieve more advanced stress detection and explore potential applications beyond mental health, such as manic disorders.
 This project contributes to the exploration of GSR sensors as a potential tool for monitoring emotional states.
 
+## Presentation
+(IICDC Technical Video)[https://www.youtube.com/watch?v=bIGew_OKFfI&t=5s&ab_channel=SrustiBSain]
+(IICDC Business Video)[https://www.youtube.com/watch?v=uAiWjFOTz70&t=2s&ab_channel=SrustiBSain]
+
