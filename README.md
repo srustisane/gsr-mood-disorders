@@ -9,6 +9,12 @@ Integrating the device with a machine learning model to achieve more advanced st
 This project contributes to the exploration of GSR sensors as a potential tool for monitoring emotional states.
 
 ## Presentation
+
 (IICDC Technical Video)[https://www.youtube.com/watch?v=bIGew_OKFfI&t=5s&ab_channel=SrustiBSain]
+
 (IICDC Business Video)[https://www.youtube.com/watch?v=uAiWjFOTz70&t=2s&ab_channel=SrustiBSain]
 
+
+## Certification
+
+(Quarterfinalist in AICTE, DST, Texas Instruments India Innovation Challenge Design Contest, Anchored by IIM, Bangalore)[Certificate.jpg]
